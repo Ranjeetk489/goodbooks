@@ -1,0 +1,27 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  position: relative;
+  top: 40px;
+}
+#logo {
+  border-radius: 4px;
+  position: relative;
+  padding: 1px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50px;
+  top: 10.1px;
+}
+#header {
+  display: inline;
+  color: #030e12;
+  padding: 0.4rem;
+}
+#list {
+  position: relative;
+  left: 100px;
+}
+body {
+  background-color: #e69a8dff;
+}
